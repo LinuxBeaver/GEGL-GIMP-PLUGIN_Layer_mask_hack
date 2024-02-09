@@ -21,10 +21,11 @@ Preview of filter using its grow selection and feather option on a layer mask of
 
  /home/(USERNAME)/.var/app/org.gimp.GIMP/data/gegl-0.4/plug-ins
 
+## After putting binaries in the correct Location
 
-Then restart Gimp and go to GEGL operation and look for "Modify Selection"
+Then restart Gimp and go to GEGL operation and look for "Modify Selection" if you are on Gimp 2.10
 
-In Gimp 2.99.16+ it will be in the main menu under Selection.
+In Gimp 2.99.16+ it will be in the main menu under Selection but also it will still exist in GEGL Operation drop down list.
 
 ## Compiling and Installing
 
